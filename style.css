@@ -6,12 +6,12 @@ body {
   padding: 0;
 }
 
-/* HEADER */
+
 
 header {
   background-color: black;
-  /*  sorry for the strange urls, I had to upload them to google drive  */
-  background-image: url("http://gdurl.com/1glme");
+  
+  background-image: url("");
   background-size: 100%;
   background-position: center;
   height: 400px;
@@ -31,7 +31,7 @@ header .mobile {
 }
 
 header .logo a {
-  background-image: url("http://gdurl.com/b9cd");
+  background-image: url("");
   background-size: 300px;
   background-repeat: no-repeat;
   display: inline-block;
@@ -53,7 +53,7 @@ nav li {
   margin-right: 20px;
 }
 
-/* RESPONSIVE RULES */
+
 
 @media screen and (max-width: 715px) {
   header {
@@ -75,7 +75,7 @@ nav li {
   }
 }
 
-/* FEATURES */
+
 
 .features {
   background: white;
@@ -101,7 +101,7 @@ nav li {
   width: 200px;
 }
 
-/* FOOTER */
+
 
 footer {
   background: black;
