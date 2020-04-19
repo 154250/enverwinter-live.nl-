@@ -1,6 +1,6 @@
 body {
   background: rgb(58, 58, 58);
-  color: white;
+  color: darkblue;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -26,17 +26,6 @@ header a {
   margin-top: 40px;
 }
 
-header .logo a {
-  background-image: url("");
-  background-size: 300px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  height: 80px;
-  position: relative;
-  text-indent: -9999999px;
-  top: -30px;
-  width: 300px;
-}
 
 nav ul {
   margin: 0;
@@ -52,7 +41,7 @@ nav li {
 
 
 .features {
-  background: white;
+  background:rgb(188, 203, 250);
   color: gray;
   padding: 20px;
   display: flex;
